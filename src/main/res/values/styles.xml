@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bms_red</item>
+        <item name="colorPrimaryVariant">@color/bms_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:textColorPrimary">@color/bms_text_primary</item>
+        <item name="android:textColorSecondary">@color/bms_text_secondary</item>
+    </style>
+</resources>

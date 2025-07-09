@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bms_red">#D81F26</color>
+    <color name="bms_dark">#1C1C1E</color>
+    <color name="bms_light">#F5F5F5</color>
+    <color name="bms_text_primary">#333333</color>
+    <color name="bms_text_secondary">#777777</color>
+</resources>
